@@ -21,14 +21,14 @@
 
 Αν θέλετε να το τρέξετε τοπικά στο δικό σας περιβάλλον (π.χ. Linux/Windows/macOS):
 
-### 1. Προαπαιτούμενα
+**Προαπαιτούμενα**
 Θα πρέπει να έχετε εγκατεστημένη την **Python 3.8+**.
 
 Δημιουργία Εικονικού Περιβάλλοντος (Προαιρετικό αλλά συνιστάται)
 python3 -m venv venv
 source venv/bin/activate  # Για Linux/macOS
-# ή
+**ή**
 venv\Scripts\activate     # Για Windows
 
-Εκτέλεση
+**Εκτέλεση**
 streamlit run ElectricityWebAppCalculator.py
